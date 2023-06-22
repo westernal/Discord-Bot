@@ -1,2 +1,2 @@
-# Discord-Bot
-Discord bot using Node.js and Discord.js
+# Reminder Discord Bot
+Reminder discord bot  using Node.js and Discord.js
