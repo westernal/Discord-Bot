@@ -9,7 +9,6 @@ client.once(Events.ClientReady, async (c) => {
   console.log(`Ready! Logged in as ${c.user.tag}`);
   fridayStarted.start();
   fridayEnded.start();
-  customMessage(client);
 });
 
 client.login(token);
